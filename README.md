@@ -1,2 +1,6 @@
 # World-Of-PHP-Scripts
-Thousand of PHP Scripts
+
+Welcome to the World of PHP script.Here you can get Thousand of PHP Scripts means almost any type of script 
+this all are not created by me but yes i created some of them so my only perpose is to provide this all script to you.
+
+share it....
